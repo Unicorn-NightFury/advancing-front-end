@@ -228,3 +228,4 @@ BFC的区域不会与float box重叠。
 
 很多人会问，为什么大厂要问很多关于布局的问题或者说我们为什么要关注那么多布局的问题？其实一个好的布局，不光光是能够将信息很好地呈现，还能能够达到性能优化以及提高用户体验的效果。下一节`CSS系列`笔者想要为大家介绍工程中几种经典的布局。
 
+>  此项目以及上传到我的开源项目[advancing-front-end](https://github.com/Unicorn-NightFury/advancing-front-end/tree/master/CSS%20%E7%B3%BB%E5%88%97)，欢迎`star`，一起见证这个项目的成长！
